@@ -15,7 +15,7 @@ Sveto pismo Kralja Jakoba - Devterokanonične knjige
 
 *English*
 
->Translation project **King James Version** Bible.
+>Translation project **King James Version - Apocrypha** Bible.
 >
 >Translated books: PrMan
 >
